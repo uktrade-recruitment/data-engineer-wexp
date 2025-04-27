@@ -15,7 +15,7 @@ We have only a few records (you can see them in the data folder).
 
 The analysts have asked for a few improvements, which we will go over during the interview. 
 
-We will use [GitHub Codespaces](https://github.com/features/codespaces) to do this. Typically, the interviewer will start the codespace, then the interviewee will join via liveshare. However, this is not a hard and fast rule. We recommend that you get familiar with GitHub Codespaces and `wexp` prior to the interview. You will **not** be allowed to use AI code assistants such as GitHub Copilot. However you are free to search online to help you find the most appropriate solution.
+We recommend using [GitHub Codespaces](https://github.com/features/codespaces) to do this, but you are allowed to use other code editors. Typically, the interviewer will start the codespace, then the interviewee will join via liveshare. However, this is not a hard and fast rule. We recommend that you get familiar with GitHub Codespaces and `wexp` prior to the interview. You will **not** be allowed to use AI code assistants such as GitHub Copilot. However you are free to search online to help you find the most appropriate solution.
 
 ## Setup
 
@@ -23,7 +23,7 @@ We will use [GitHub Codespaces](https://github.com/features/codespaces) to do th
 - Clone the repository `uktrade-recruitment/data-engineer-derec`
 - Leave the default options as-is
 
-GitHub will take a few seconds to spin up your codespace.
+GitHub will take a few seconds to spin up your codespace. GitHub will provide users in the free plan 120 core hours or 60 hours of run time on a 2 core codespace, so you should't be charged unless you already use GitHub Codespaces for personal use.
 
 The repository uses [uv](https://docs.astral.sh/uv/) as a python package manager. Run the following commands to setup the python environment:
 
