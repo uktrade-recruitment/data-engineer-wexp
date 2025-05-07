@@ -20,7 +20,7 @@ We recommend using [GitHub Codespaces](https://github.com/features/codespaces) t
 ## Setup
 
 - Log into [GitHub Codespaces](https://github.com/codespaces)
-- Clone the repository `uktrade-recruitment/data-engineer-derec`
+- Clone the repository `uktrade-recruitment/data-engineer-wexp`
 - Leave the default options as-is
 
 GitHub will take a few seconds to spin up your codespace. GitHub will provide users in the free plan 120 core hours or 60 hours of run time on a 2 core codespace, so you should't be charged unless you already use GitHub Codespaces for personal use.
